@@ -1,20 +1,39 @@
 ---
 layout: home
-title: Welcome to My Site
+title: Welcome to Peter Benhens
 permalink: /
 ---
 
-# Welcome to {{ site.title }}
+# Peter Benhens
 
-{{ site.description }}
-
-[Explore Blog](/blog/) | [Learn More About Me](/about/)
+Welcome to the official website of Peter Benhens, where innovation meets technology. Explore my projects, learn about my work, and discover how I can help transform your ideas into reality.
 
 ---
 
-## Latest Posts
+## Projects
 
-{% for post in site.posts limit:3 %}
-- **[{{ post.title }}]({{ post.url }})**  
-  {{ post.excerpt | strip_html | truncatewords: 30 }}
-{% endfor %}
+### METERA
+Discover METERA, my latest project focused on AI advancements and automation solutions. 
+
+[Learn More](https://www.metera.co)
+
+---
+
+## Watch My Videos
+
+Dive into my video content exploring cutting-edge AI topics, technology trends, and automation.
+
+[Watch Now](#)
+
+---
+
+## Contact Me
+
+Have questions or want to collaborate? Get in touch! 
+
+[Email Me](mailto:your-email@example.com)
+
+---
+
+By exploring this website, you agree to receive updates and communications from Peter Benhens.
+
